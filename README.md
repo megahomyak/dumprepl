@@ -1,6 +1,12 @@
 # DUMPREPL
 
-A Python REPL that dumps expressions and lets you recover them by their numbers.
+A Python REPL that will allow you to develop your programs *much faster*.
+
+## Main features
+
+It will allow you to restore any plain expression and, most importantly, push the stuff from your REPL to your stable code, providing for quick iterations.
+
+## Usage notes
 
 After every expression entered, a `\{number}` will appear in the console below the output. This is the number you will be able to use later.
 
